@@ -1,0 +1,71 @@
+
+/*#myDiv{
+  background-color: green;
+  transition : background-color 2s,opacity 2s;
+    
+}
+
+#myDiv:hover{
+    background-color : red;
+  opacity : 0.5
+  
+} */
+
+body{ margin : 0px; }
+
+#quotebox{
+  font-size : 30px;
+  height : auto;
+  
+  
+}
+#authorbox{
+    text-align : right;
+  }
+
+.box {
+  height : auto;
+  margin : auto;
+}
+
+
+#btnAnimate{  
+  width : 150px;  
+}
+.share  {
+  width : 50px;
+  float : right;
+}
+
+.button {
+height : 50px;
+padding : 0px;
+vertical-align : middle;
+margin-top : 40px;  
+
+
+color :white;
+background-color : #333c5b;
+border-radius: 3px;
+border : none;
+}
+
+button:hover{
+    opacity : .8;
+}
+
+
+
+.background-tile{
+  background-image: url(https://image.noelshack.com/fichiers/2017/51/3/1513771628-background-1.jpg);
+  background-size : 1500px 900px;
+  height : 620px;
+  width : 1519px;
+  padding-top : 270px;
+
+}
+  
+#backimg{
+  filter : hue-rotate(0deg) ;
+  
+}  
